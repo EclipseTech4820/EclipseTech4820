@@ -1,4 +1,5 @@
-<img width="1920" height="640" alt="EclipseBanner" src="https://github.com/user-attachments/assets/dd04df3c-4932-43c9-92ac-3522f16e27a2" />
+<img width="1920" height="640" alt="EclipseBanner" src="https://github.com/user-attachments/assets/7c161ea0-cb89-4f8e-a28a-107886558aee" />
+
 
 # Welcome
 
